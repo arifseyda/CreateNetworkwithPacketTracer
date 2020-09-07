@@ -1,0 +1,1 @@
+Cisco packet tracer ile docs dosyasında bulunan topoloji ve içerisinde bulunan istekler yapılmıştır. VLAN işlemleri, ağların birbirleriyle haberleşmesi, Bazı ağlardaki bilgisayarlar başkaları ile haberleşmememisine yardımcı olan erişim denetim listesi işlemleri bulunmaktadır.
